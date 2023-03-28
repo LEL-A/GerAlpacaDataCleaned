@@ -26,7 +26,7 @@ We would like to thank the original creators of the Alpaca datasets for making t
 
 # Licensing
 
-The Cleaned German Alpaca Dataset is licensed under [CC BY NC 4.0](DATA_LICENSE).
+The Cleaned German Alpaca Dataset is licensed under [CC BY NC 4.0](https://github.com/LEL-A/GerAlpacaDataCleaned/blob/main/DATA_LICENSE).
 
 The software and tools in this repository is licensed under the **MIT License** (the "License");
 you may not use this file except in compliance with the License. You may obtain a copy of the License by reviewing the file
