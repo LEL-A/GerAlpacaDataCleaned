@@ -23,3 +23,11 @@ By removing errors and inconsistencies, the goal is to improve performance of th
 We would like to thank the authors of the Cleaned Alpaca dataset for their effort.
 
 We would like to thank the original creators of the Alpaca datasets for making their data available to the public.
+
+# Licensing
+
+The Cleaned German Alpaca Dataset is licensed under [CC BY NC 4.0](https://github.com/LEL-A/GerAlpacaDataCleaned/blob/main/DATA_LICENSE).
+
+The software and tools in this repository is licensed under the **MIT License** (the "License");
+you may not use this file except in compliance with the License. You may obtain a copy of the License by reviewing the file
+[LICENSE](https://github.com/LEL-A/GerAlpacaDataCleaned/blob/main/LICENSE) in the repository.
